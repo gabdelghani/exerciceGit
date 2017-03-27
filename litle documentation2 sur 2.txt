@@ -1,0 +1,14 @@
+Deuxieme partie de ma litle documentaion
+
+
+4 - git log
+Grâce à la commande  git log qui vous affiche la liste de tous les commits que vous avez réalisés ! 
+
+5 - git checkout SHADuCommit
+Lorsque vous effectuez une série de commits sur un projet, il peut vous arriver de vouloir remonter dans le temps à la recherche d'erreurs éventuelles par exemple. Pour vous positionner sur un commit donné de votre historique, il vous suffit d'utiliser la commande git checkout de la façon suivante : 
+
+git checkout SHADuCommit
+
+6 - git checkout master
+Pour revenir à votre branche principale (au commit le plus récent), on utilise la même commande : 
+git checkout master
